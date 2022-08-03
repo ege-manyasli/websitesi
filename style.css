@@ -558,7 +558,7 @@ section {
 .blogs .box-container .box .content h3 {
   font-size: 2rem;
   text-transform: uppercase;
-  color: #fff;
+  color: rgb(237, 214, 214);
 }
 
 .blogs .box-container .box .content p {
@@ -650,4 +650,3 @@ section {
   }
 }
 /*# sourceMappingURL=style.css.map */
-s
